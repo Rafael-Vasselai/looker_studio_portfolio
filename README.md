@@ -7,7 +7,7 @@ This repository showcases a collection of dashboards created using Google Looker
 - [Discount Store](./discount-store/dashboard.md)
 - [Medical System](./medical-system/dashboard.md)
 - [Sales Report](./sales-report/dashboard.md)
-- [Fruit Store](./fruit-store/dashboard.md)
+- [Fruit Store](./fruit-shop/dashboard.md)
 - [Cement Company](./cement-company/dashboard.md)
 
 Each folder contains:
