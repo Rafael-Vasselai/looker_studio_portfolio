@@ -6,4 +6,4 @@
 This dashboard analyzes discount-based sales performance in a retail environment. It helps identify trends, measure effectiveness of promotions, and track KPIs across different channels.
 
 🖼️ **Preview:**
-![Dashboard Screenshot](discount-store/screenshot.png)
+![Dashboard Screenshot](./screenshot.png)
